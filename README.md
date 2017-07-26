@@ -17,4 +17,8 @@ npm init
 ok
 ```
 npm i --save express
+npm i --save nodemon
+npm i --save ejs
 ```
+nodemon : pour recharger des qu'on sauvegarde une modification
+ejs : pour express js
