@@ -8,7 +8,8 @@ web site de rencontre
 - mongo db
 
 ## start :
-create a folder\n
+create a folder
+
 a file server.js
 ```
 npm init
