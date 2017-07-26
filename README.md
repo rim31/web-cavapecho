@@ -6,3 +6,10 @@ web site de rencontre
 - node js
 - react js
 - mongo db
+
+## start :
+create a folder
+a file server.init
+```
+npm init
+```
