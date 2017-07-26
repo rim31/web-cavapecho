@@ -14,3 +14,7 @@ a file server.js
 ```
 npm init
 ```
+ok
+```
+npm i --save express
+```
