@@ -10,6 +10,9 @@ web site de rencontre, 1er test
 
 ## start :
 create a folder
+```
+npm init
+```
 
 ## initialisation du projet
 
@@ -40,24 +43,41 @@ src/data/
 views in a folder :
 src/components/...
 don't forget 
-Layout | NotFoundPage 
+Layout | NotFoundPage |Approutes
 
-Route : avec react-router
+Route : avec react-router relié à Approutes
 src/routes.js
 
+Client logic : JavaScript logic that initializes the whole app in the browser
+src/app-client.js
+
+
+configuration file :
+webpack.config.js
+
+run this cmd
+```
+NODE_ENV=production node_modules/.bin/webpack -p
+```
+
+to see somme results : localhost:8080
+```
+node_modules/.bin/http-server src/static
+
+```
+
+replace index.html : using template ejs
+src/views/index.ejs
+
+hte  server : node js express :
+src/server.js
+```
+NODE_ENV=production node_modules/.bin/babel-node --presets react,es2015 src/server.js
+
+```
 
 ____________________________________________________________________________________________________________________________
 
-a file server.js
-```
-npm init
-```
-ok
-```
-npm i --save express
-npm i --save nodemon
-npm i --save ejs
-```
 nodemon : pour recharger des qu'on sauvegarde une modification
 
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
