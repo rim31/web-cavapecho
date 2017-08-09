@@ -8,21 +8,11 @@ web site de rencontre
 - node js
 - react js
 - mongo db
+- express
+- babel | webpack |ecma6(es2015)
 
 ## start :
 create a folder
-
-a file server.js
-```
-npm init
-```
-ok
-```
-npm i --save express
-npm i --save nodemon
-npm i --save ejs
-```
-nodemon : pour recharger des qu'on sauvegarde une modification
 
 ## initialisation du projet
 
@@ -36,3 +26,16 @@ npm install --save babel-cli@6.11.x babel-core@6.13.x  \
 ```
 npm install --save-dev webpack@1.13.x babel-loader@6.2.x http-server@0.9.x
 ```
+____________________________________________________________________________________________________________________________
+
+a file server.js
+```
+npm init
+```
+ok
+```
+npm i --save express
+npm i --save nodemon
+npm i --save ejs
+```
+nodemon : pour recharger des qu'on sauvegarde une modification
