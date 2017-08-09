@@ -1,14 +1,11 @@
-
-
-# IN PROGRESS... : web-cavapecho
-web site de rencontre
+# IN PROGRESS... : web-Çavapecho
+web site de rencontre, 1er test
 
 ## techno :
-1er test
-- node js
 - react js
+- node js
 - mongo db
-- express
+- express js
 - babel | webpack |ecma6(es2015)
 
 ## start :
@@ -41,8 +38,12 @@ data in :
 src/data/
 
 views in a folder :
-src/components/
+src/components/...
+don't forget 
+Layout | NotFoundPage 
 
+Route : avec react-router
+src/routes.js
 
 
 ____________________________________________________________________________________________________________________________
