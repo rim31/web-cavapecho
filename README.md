@@ -27,8 +27,23 @@ npm install --save babel-cli@6.11.x babel-core@6.13.x  \
 npm install --save-dev webpack@1.13.x babel-loader@6.2.x http-server@0.9.x
 ```
 
+
+### architecture des fichiers
+
 create a folder and file :
 src/static/index.html
+
+image, style in :
+src/static/img/
+src/static/css/style.css
+
+data in :
+src/data/
+
+views in a folder :
+src/components/
+
+
 
 ____________________________________________________________________________________________________________________________
 
