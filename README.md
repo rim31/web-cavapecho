@@ -26,6 +26,10 @@ npm install --save babel-cli@6.11.x babel-core@6.13.x  \
 ```
 npm install --save-dev webpack@1.13.x babel-loader@6.2.x http-server@0.9.x
 ```
+
+create a folder and file :
+src/static/index.html
+
 ____________________________________________________________________________________________________________________________
 
 a file server.js
@@ -39,3 +43,5 @@ npm i --save nodemon
 npm i --save ejs
 ```
 nodemon : pour recharger des qu'on sauvegarde une modification
+
+https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
