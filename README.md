@@ -11,6 +11,12 @@ web site de rencontre, 1er test
 
 ![alt text](https://github.com/rim31/web-cavapecho/blob/master/static/images/Capture%20d’écran%202017-08-11%20à%2001.33.15.png)
 
+![alt text](https://github.com/rim31/web-cavapecho/blob/master/static/images/Capture%20d’écran%202017-08-11%20à%2001.40.36.png)
+
+![alt text](https://github.com/rim31/web-cavapecho/blob/master/static/images/Capture%20d’écran%202017-08-11%20à%2001.41.14.png)
+
+![alt text](https://github.com/rim31/web-cavapecho/blob/master/static/images/Capture%20d’écran%202017-08-11%20à%2001.39.57.png)
+
 
 ## start :
 create a folder
